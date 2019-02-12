@@ -1,0 +1,25 @@
+div {
+  border: 3px solid red;
+  height: 200px;
+  width: 300px;
+  margin: 20px;
+  float: left;
+  background: black;
+}
+
+section {
+  clear: both;
+}
+
+img {
+  float: right;
+}
+
+@media screen and (min-width: 800px) {
+
+  div {
+    border: 5px dashed blue;
+    background: gray;
+  }
+
+}
