@@ -1,0 +1,17 @@
+/* div {
+  border: 1px solid black;
+} */
+
+body {
+  width:480px; 
+}
+
+#e {
+  float:left;
+}
+
+@media (min-width: 481px){
+  body {
+    width:960px;
+  }
+}
