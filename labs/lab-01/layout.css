@@ -1,17 +1,17 @@
-/* div {
-  border: 1px solid black;
-} */
-
 body {
   width:480px; 
+  margin: 0px auto;
 }
 
-#e {
-  float:left;
+div {
+    float: left;
+    margin:auto 0px;
+ 
 }
 
-@media (min-width: 481px){
+@media (min-width: 768px){
   body {
     width:960px;
   }
+
 }
