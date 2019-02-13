@@ -1,6 +1,6 @@
 # Lab 2: Two Front-End Assignments
 
-*Note that in today's lab you have two separate assignments: a personal portfolio adapted from starter code, and a reworking of Lab 1 using either flexbox or grid*
+*Note that in today's lab you have two separate assignments: a personal portfolio adapted from starter code, and a reworking of Lab 1 using either flexbox or grid.*
 
 ## Assignment 1: Personal Portfolio
 
@@ -43,38 +43,38 @@ Add this information to your README.
 - Add and commit this initial state of the code base to your master branch.
 - From this point on, work on semantically-named non-master branches. Remember to add, commit, and push regularly.
 
-## User Acceptance Tests
+### User Acceptance Tests
 
-### Feature #1: Refactor the CSS 
+#### Feature #1: Refactor the CSS 
 
-#### Why are we implementing this feature?
+##### Why are we implementing this feature?
 
 - As a user, I want the portfolio to have a clean UI so that it is visually appealing.
 
-#### What are we going to implement?
+##### What are we going to implement?
 
 Given that a user opens the application in the browser  
 When the user navigates to the home page  
 Then the portfolio contents should be displayed  
 
-#### How are we implementing it?
+##### How are we implementing it?
 
 - Refactor the `main.css` file using SMACSS principles.
   - You may decide how many files to include, but at the minimum should include  `base.css`, `layout.css`, and `modules.css`. However, think through the way you separate your CSS rules. For example, you may want several CSS files in a `modules` folder, if you feel that the code needs to be organized in that manner.
 
-### Feature #2: Modify the contents
+#### Feature #2: Modify the contents
 
-#### Why are we implementing this feature?
+##### Why are we implementing this feature?
 
 - As a user, I want to view a unique portfolio so that the skills and personality of the developer are portrayed.
 
-#### What are we going to implement?
+##### What are we going to implement?
 
 Given that a user opens the application in the browser  
 When the user navigates to the home page  
 Then the content should be unique and reflect the skills and personality of the developer  
 
-#### How are we implementing it?
+##### How are we implementing it?
 
 - Modify the contents of the template to make it your own. The HTML elements may remain the same if you like, but the content should be adapted to reflect your personal details and skills.
 - Apply the following changes, some of which were part of your prework for this course:
@@ -87,7 +87,7 @@ Then the content should be unique and reflect the skills and personality of the 
 - Update the list of social media icons with your links using icons for your favorite social media sites from IcoMoon or Font Awesome.
 - Keep in mind that this template is just a starting point. It is yours to modify to reflect your personal online presence as a software developer so have fun and be creative!
 
-## Submission Instructions
+### Submission Instructions
 
 - Complete your Feature Tasks for the day
 - Create a Pull Request (PR) back to the `master` branch of your repository
@@ -104,25 +104,25 @@ In lab 1, you built a web page where each box of content was rendered with a uni
 
 Refer back to the lab 1 assignment details for a reminder of the problem domain.
 
-### Feature #1: Responsive design
+#### Feature #1: Responsive design
 
-#### Why are we implementing this feature?
+##### Why are we implementing this feature?
 
 - As a user, I want the dimensions and colors of the application to change so that I can have a unique view in desktop, mobile, and tablet viewports.
 
-#### What are we going to implement?
+##### What are we going to implement?
 
 Given that a user opens the application in the browser, on a tablet, or on a mobile device  
 When the user changes the size of the viewport  
 Then the boxes should scale proportionally and change colors  
 
-#### How are we implementing it?
+##### How are we implementing it?
 
 - Use Flexbox or CSS Grid for styling this application.
 - Use relative units so the elements scale proportionally when the viewport dimensions change.
 - Use at least two breakpoints and change the background colors of each box. There should be three possible views: desktop, tablet, and mobile device. You may choose the exact pixel values for each breakpoint.
 
-## Submission Instructions
+### Submission Instructions
 
 Note that there are two portions to today's lab: extending the features on your personal portfolio and completing the resposive web design assignment. Follow the submission instructions for each assignment and submit links to your pull requests in the corresponding Canvas assignments.
 
