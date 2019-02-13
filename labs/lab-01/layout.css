@@ -9,6 +9,13 @@ div {
  
 }
 
+@media (min-width: 481px){
+  body {
+    width:600px;
+  }
+
+}
+
 @media (min-width: 768px){
   body {
     width:960px;
