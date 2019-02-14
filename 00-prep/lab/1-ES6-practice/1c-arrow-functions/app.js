@@ -191,4 +191,5 @@ console.log(joe.scopeArrow());
 // 2. What is "this" when joe.scopeArrow() is invoked?
 // The window object
 // 3. Explain why "this" is different when an arrow function is used.
-// Not sure why it is different when in context of arrow functions and when it isn't
+// Using the 'this' keyword in an arrow function references the global object instead of referencing the object the code defines. 
+// Can't have the this keyword, as well as prototypes
