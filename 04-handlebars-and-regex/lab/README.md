@@ -1,4 +1,4 @@
-# Lab 04: Templating
+# Lab 04: Flexbox and templating
 
 ## Configuration
 
@@ -40,7 +40,7 @@ Complete this step before moving on to today's features.
 
 ### Overview
 
-Today you and your partner(s) will add pagination to your image gallery.
+Today you and your partner(s) will add pagination to your image gallery. Work in the same repository as you did for Lab 3.
 
 You will also be refactoring your photo gallery in two ways: you will use Handlebars for templating and you will use Flexbox for styling.
 
