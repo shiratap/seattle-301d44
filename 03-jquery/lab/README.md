@@ -1,4 +1,4 @@
-# Lab 02: jQuery Selectors and Events
+# Lab 03: jQuery Selectors and Events
 
 ## Configuration
 
@@ -28,7 +28,7 @@ lab-02-repository
 
 ### Overview
 
-In labs 2 and 3, you and your partner(s) will be using the provided JSON files to create a photo gallery. You will style it using floats.
+In labs 3 and 4, you and your partner(s) will be using the provided JSON files to create a photo gallery. You will style it using floats.
 
 You have the option of using the provided `index.html` file, but it is not a requirement.
 
