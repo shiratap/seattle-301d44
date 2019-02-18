@@ -1,4 +1,4 @@
-# Lab 5: Extend your portfolio, Responsive web design 
+# Lab 5: Extend your portfolio
 
 ### Overview
 
