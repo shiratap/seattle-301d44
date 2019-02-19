@@ -5,15 +5,12 @@ body {
 
 div {
     float: left;
-    margin:auto 0px;
- 
 }
 
 @media (min-width: 481px){
   body {
     width:600px;
   }
-
 }
 
 @media (min-width: 768px){

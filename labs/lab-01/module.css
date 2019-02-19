@@ -1,5 +1,6 @@
 div {
   border:1px solid black;
+  margin:auto 0px;
 }
 
 #a {
@@ -64,13 +65,12 @@ div {
   height: 80px;
   line-height: 80px;
 }
-
+/* ****** */
 /* TABLET */
+/* ****** */
+
 @media (min-width: 481px) and (max-width:767px){
-  body {
-    width:600px;
-  }
-  
+
   #a {
     background-color: darkcyan;
     width: 600px;
@@ -135,8 +135,10 @@ div {
   }
   
 }
-
+/* ******* */
 /* DESKTOP */
+/* ******* */
+
 @media (min-width: 768px){
   body {
     width:960px;
