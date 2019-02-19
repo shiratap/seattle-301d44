@@ -16,11 +16,12 @@
 - `README.md` - with documentation regarding your lab and its current state of development. Check the "documentation" section below for more details on how that should look **AT MINIMUM**
 - `.gitignore` - with standard NodeJS configurations
 - `.eslintrc.json` - with Code 301 course standards for the linter
-- `package.json` - with all dependencies and any associated details related to configuration. The dependencies needed for today's lab include: `express`, `superagent`, `cors`, and `dotenv`.
+- `package.json` - with all dependencies and any associated details related to configuration. The dependencies needed for today's lab include `express` and `dotenv`.
 - Note that the `package-lock.json` file is automatically created when dependencies are installed and ensures that future installations of the project use the same versions of the dependencies.
 
 ```sh
 lab-06-repository
+   ├── data/
    ├── .env
    ├── .eslintrc.json
    ├── .gitignore
