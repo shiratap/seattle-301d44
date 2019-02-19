@@ -1,0 +1,21 @@
+body {
+  width:480px; 
+  margin: 0px auto;
+}
+
+div {
+    float: left;
+}
+
+@media (min-width: 481px){
+  body {
+    width:600px;
+  }
+}
+
+@media (min-width: 768px){
+  body {
+    width:960px;
+  }
+
+}

@@ -1,0 +1,23 @@
+{
+  "name": "demo-basic-server",
+  "version": "1.0.0",
+  "description": "Basic Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlchambersjr/demo-basic-server.git"
+  },
+  "author": "David Chambers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dlchambersjr/demo-basic-server/issues"
+  },
+  "homepage": "https://github.com/dlchambersjr/demo-basic-server#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  }
+}
