@@ -13,13 +13,7 @@ For each of the features listed below, make an estimate of the time it will take
 ```
 Number and name of feature: ________________________________
 
-Estimate of time needed to complete: _____
 
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
 ```
 
 Add this information to your README.

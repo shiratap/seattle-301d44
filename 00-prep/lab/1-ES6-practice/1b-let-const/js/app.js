@@ -18,7 +18,11 @@ const votes = [];
 
 function Product(name) {
   this.name = name;
+<<<<<<< HEAD
   this.path = `img/${name}.jpg`;
+=======
+  this.path = `img${name}.jpg`;
+>>>>>>> 9830e19a4930d8d3ccd9f5295659175cbb29f620
   this.votes = 0;
   this.views = 0;
   allProducts.push(this);
